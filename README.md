@@ -1,6 +1,6 @@
 # bottom_sheet_item_selector
 
-A Flutter package that provides a customizable bottom sheet widget for selecting items, supporting both single and multiple selections.
+Flutter bottom_sheet_item_selector is a highly customizable Flutter package that simplifies the process of selecting items from a bottom sheet. This widget supports both single and multiple item selection modes, making it a flexible solution for any mobile app interface. Whether you're building forms, filters, or item pickers, this package is designed to meet your needs with ease and efficiency.
 
 ## Features
 
