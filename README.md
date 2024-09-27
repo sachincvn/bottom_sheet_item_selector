@@ -54,9 +54,13 @@ SelectableItemBottomSheet<String>(
 
 ## Screenshots
 
-| Single Selection                                     | Multiple Selection                                     |
-| ---------------------------------------------------- | ------------------------------------------------------ |
-| ![Single Selection](https://via.placeholder.com/150) | ![Multiple Selection](https://via.placeholder.com/150) |
+| Custom Selection View              | Single Selection                        |
+| ---------------------------------- | --------------------------------------- |
+| ![Custom View](screenshots/s1.jpg) | ![Single Selection](screenshots/s2.jpg) |
+
+| Multiple Selection                        | Searchable Selection                        |
+| ----------------------------------------- | ------------------------------------------- |
+| ![Multiple Selection](screenshots/s3.jpg) | ![Searchable Selection](screenshots/s4.jpg) |
 
 ## How to Use
 
