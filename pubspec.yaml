@@ -1,6 +1,6 @@
 name: bottom_sheet_item_selector
 description: "A Flutter package that provides a customizable bottom sheet widget for selecting items, supporting both single and multiple selections."
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/sachincvn/bottom_sheet_item_selector
 repository: https://github.com/sachincvn/bottom_sheet_item_selector
 issue_tracker: https://github.com/sachincvn/bottom_sheet_item_selector/issues
